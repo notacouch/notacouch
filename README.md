@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <div style="text-align: center">
-[notacouch logo](https://github.com/notacouch/notacouch/blob/main/notacouch-icon-64.png?raw=true)
+![notacouch logo](/notacouch-icon-64.png)
 
 <br>
 
