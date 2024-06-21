@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **notacouch/notacouch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div style="text-align: center">
+[notacouch logo](https://github.com/notacouch/notacouch/blob/main/notacouch-icon-64.png?raw=true)
+
+<br>
+
+![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=notacouch)
+</div>
