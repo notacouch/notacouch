@@ -14,10 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="text-align: center">
-![notacouch logo](/notacouch-icon-64.png)
-
-<br>
-
-![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=notacouch)
-</div>
+<p align="center"><img alt="notacouch logo" src="/notacouch-icon-64.png"></p>
+<p align="center"><img alt="notacouch’s most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notacouch"></p>
